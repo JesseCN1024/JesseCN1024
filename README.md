@@ -1,9 +1,10 @@
 ### WELCOME TO MY GITHUB 👋👋👋
-My name is Khoa Nguyen. I am a second-student of University of Information Technology majoring Information System. I am interested in web development and user experience improvement, so I have chosen Frontend Developement as my future career.<br>
+My name is Khoa Nguyen. I am a second-year student of University of Information Technology majoring Information System. I am interested in web development and user experience improvement so I have chosen Frontend Development as my future career.<br>
 
-## 📫 My Github link: 
+## 📫 My Github link
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/JesseCN1024/) 
 
+## My Personal Projects
 
 <a href="https://github.com/JesseCN1024/Movie-Fighting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
