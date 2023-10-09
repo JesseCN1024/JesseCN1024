@@ -6,11 +6,31 @@ My name is Khoa Nguyen. I am a second-year student of University of Information 
 
 ## My Personal Projects
 
+
+<a href="https://github.com/JesseCN1024/VanLife">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=VanLife&theme=dracula" />
+</a>
+
+<a href="https://github.com/JesseCN1024/Coconotes">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Coconotes&theme=dark" />
+</a>    
+
+<a href="https://github.com/JesseCN1024/Tenzies">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Tenzies&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/JesseCN1024/EcommerceShop">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=EcommerceShop&theme=cobalt" />
+</a>    
+
 <a href="https://github.com/JesseCN1024/Movie-Fighting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Movie-Fighting&theme=radical" />
 </a>    
-
 
 <a href="https://github.com/JesseCN1024/TechPage">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -26,16 +46,22 @@ My name is Khoa Nguyen. I am a second-year student of University of Information 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Timer&theme=dark" />
 </a>
-
-<a href="https://github.com/JesseCN1024/Shopee-Demo">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Shopee-Demo&theme=onedark" />
-</a>    
+  
 <a href="https://github.com/JesseCN1024/The-Band">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=The-Band&theme=cobalt" />
 </a>
 
+
+
+
+
+<!-- <a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
+</a>    
+<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+</a> -->
 
 
 <!--
