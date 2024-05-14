@@ -8,6 +8,13 @@ My name is Khoa Nguyen. I am a third-year student of University of Information T
 
 ## My Personal Projects
 
+  
+<a href="https://github.com/Team-DVGs/MiniMarket3">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Team-DVGs&repo=MiniMarket3
+&theme=cobalt" />
+</a>
+
 
 <a href="https://github.com/JesseCN1024/VanLife">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
