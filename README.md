@@ -40,8 +40,8 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
 ## My Personal Projects
 <a href="https://github.com/NT118-MiniMarketProject/MiniMarket_FE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NT118-MiniMarketProject
-&repo=MiniMarket_FE&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=BachHoaXanh-App
+&theme=radical" />
 </a>   
   
 <a href="https://github.com/Team-DVGs/MiniMarket3">
