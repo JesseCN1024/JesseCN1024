@@ -5,7 +5,11 @@ My proficiency in Frontend technologies includes HTML, CSS, and JavaScript, Type
 
 I have a strong foundation in English, evidenced by my TOEIC score of 880 in reading and listening. This certification highlights my proficiency in understanding complex texts and conversations in English. Additionally, I possess fine speaking and writing skills, allowing me to communicate effectively and articulately in both professional and casual settings. 
 
-
+<p align="center">
+  <a href="https://portfolio-daniel-khoa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Button">
+  </a>
+</p>
 
 ## 📫 Reach me via
 <!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khoa-nguyen-ly/) 
