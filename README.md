@@ -41,16 +41,24 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
 
 
 
-## My Personal Projects
+## My Personal 
+
+<a href="https://github.com/JesseCN1024/Coconotes">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=DeploymentBookingSystemV3&theme=dark" />
+</a>    
+
+<a href="https://github.com/Team-DVGs/MiniMarket3">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Team-DVGs&repo=MiniMarket3&theme=cobalt" />
+</a>
+
+
 <a href="https://github.com/NT118-MiniMarketProject/MiniMarket_FE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=BachHoaXanh-App&theme=radical" />
 </a>   
   
-<a href="https://github.com/Team-DVGs/MiniMarket3">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Team-DVGs&repo=MiniMarket3&theme=cobalt" />
-</a>
 
 
 <a href="https://github.com/JesseCN1024/DeploymentBookingSystem">
@@ -63,10 +71,6 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=VanLife&theme=dracula" />
 </a>
 
-<a href="https://github.com/JesseCN1024/Coconotes">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=JesseCN1024&repo=Coconotes&theme=dark" />
-</a>    
 
 <a href="https://github.com/JesseCN1024/Tenzies">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
