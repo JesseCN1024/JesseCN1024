@@ -1,9 +1,9 @@
 ### WELCOME TO MY GITHUB 👋👋👋
-My name is Khoa Nguyen. I am a third-year student of University of Information Technology majoring Information System. I am interested in web development and user experience improvement so I have chosen Frontend Development as my future career.<br>
+My name is Khoa Nguyen. I am a full-stack developer graduating from the University of Information Technology (UIT). I am passionate about web development and enhancing user experiences, with a strong focus on both frontend and backend development as my future career path.
 
-My proficiency in Frontend technologies includes HTML, CSS, and JavaScript, TypeScript along with hands-on experience in frameworks like ReactJS and React Native, and relevant technologies as Redux, Redux Toolkit, Tailwind CSS, CSS Pre-processor(SASS)... On the Backend side, I've gained a basic foundation on Firebase and ExpressJS/NodeJS.<br>
+My proficiency in frontend technologies includes HTML, CSS, JavaScript, and TypeScript, with extensive hands-on experience in frameworks like ReactJS and React Native, and related technologies such as Redux, Redux Toolkit, Tailwind CSS, and CSS preprocessors (SASS). On the backend side, I have a solid foundation in .NET, C#, ASP.NET Core, and Entity Framework. I am also skilled in designing REST APIs, version control with Git, containerization with Docker, and working with databases like PostgreSQL.
 
-I have a strong foundation in English, evidenced by my TOEIC score of 880 in reading and listening. This certification highlights my proficiency in understanding complex texts and conversations in English. Additionally, I possess fine speaking and writing skills, allowing me to communicate effectively and articulately in both professional and casual settings. 
+I have a strong command of English, demonstrated by my TOEIC score of 880 in reading and listening, which reflects my ability to understand complex texts and conversations. Additionally, I possess excellent speaking and writing skills, enabling me to communicate effectively and articulately in both professional and casual settings.
 
 <p align="center">
   <a href="https://portfolio-daniel-khoa.vercel.app/" target="_blank">
@@ -17,6 +17,8 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khoa.nguyenld.1024/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-nguyen-ly/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesseCN1024) 
 
 ##  💻 Tech Stack
+### Frontend
+
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,11 +30,22 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge&logo=rest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 <!-- ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
+<!-- ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) -->
 
 <!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
@@ -41,7 +54,7 @@ I have a strong foundation in English, evidenced by my TOEIC score of 880 in rea
 
 
 
-## My Personal 
+## My Projects
 
 <a href="https://github.com/JesseCN1024/DeploymentBookingSystemV3">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
